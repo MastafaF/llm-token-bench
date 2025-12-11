@@ -1,0 +1,12 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
+.idea/
+.vscode/
+data/*.csv
+data/*.png
+
+
